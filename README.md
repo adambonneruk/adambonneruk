@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @adambonneruk
+- 🌍 [adambonner.co.uk](https://adambonner.co.uk)
+- 👨‍💼 My [LinkedIn](https://www.linkedin.com/in/adambonneruk/)
+- 👀 I’m interested in:
+  - Git, Git-LFS, GitFlow, SVN, GitHub and BitBucket
+  - Python, C, Batch, HLA, MATLAB
+  - HTML, CSS, JavaScript and Markdown
+  - Docker, Docker-Compose, DockerHub Kubernetes
+  - 🤖 LEGO Mindstorms
+  - 🍇 Raspberry Pi (why is there no raspberry emoji?)
