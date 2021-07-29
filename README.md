@@ -2,9 +2,14 @@
 - 🌍 [adambonner.co.uk](https://adambonner.co.uk)
 - 👨‍💼 My [LinkedIn](https://www.linkedin.com/in/adambonneruk/)
 - 👀 I’m interested in:
-  - Git, Git-LFS, GitFlow, SVN, GitHub and BitBucket
-  - Python, C, Batch, HLA, MATLAB
-  - HTML, CSS, JavaScript and Markdown
-  - Docker, Docker-Compose, DockerHub Kubernetes
+  - Git, Git-LFS, Submodules, GitFlow, SVN, GitHub, and BitBucket
+  - Python, C, Batch, HLA, and MATLAB
+  - HTML, CSS, JavaScript, and Markdown
+  - Docker, Docker-Compose, DockerHub, and Kubernetes
   - 🤖 LEGO Mindstorms
   - 🍇 Raspberry Pi (why is there no raspberry emoji?)
+- 💻 Professionally I work with:
+  - Java and Groovy
+  - SOAP using XML, XSD, XPath and XLST
+  - REST using JSON / Swagger
+  - Gherkin and 🥒 Cucumber
