@@ -1,15 +1,14 @@
-- 👋 Hi, I’m @adambonneruk
-- 🌍 [adambonner.co.uk](https://adambonner.co.uk)
-- 👨‍💼 My [LinkedIn](https://www.linkedin.com/in/adambonneruk/)
-- 👀 I’m interested in:
-  - Git, Git-LFS, Submodules, GitFlow, SVN, GitHub, and BitBucket
-  - Python, C, Batch, HLA, and MATLAB
-  - HTML, CSS, JavaScript, and Markdown
-  - Docker, Docker-Compose, DockerHub, and Kubernetes
-  - 🤖 LEGO Mindstorms
-  - 🍇 Raspberry Pi (why is there no raspberry emoji?)
-- 💻 Professionally I work with:
-  - Java and Groovy
-  - SOAP using XML, XSD, XPath and XLST
-  - REST using JSON / Swagger
-  - Gherkin and 🥒 Cucumber
+## ```Hello, World!```
+
+<img align="right" alt="little circuit board" src="./active-circuit.gif" />
+
+[🌍 Website](https://adambonner.co.uk) | [👨‍💼 LinkedIn](https://www.linkedin.com/in/adambonneruk/) | [👨🏻‍💻 GitHub](https://github.com/adambonneruk)
+
+
+### I am Adam Bonner
+
+- 💾 Version Control Enthusiast
+- 🐍 Hobbyist Python Developer, with experience in HLA, C, XSLT, MATLAB, Groovy, Gherkin and PowerShell
+- 👔 Principal Consultant / Enterprise Architect for [Experian](https://www.experian.co.uk/business/customer-journey/acquisition)
+- 👷🏼 Free time spent with LEGO Mindstorms, Raspberry Pi and Power Tools
+- 🎓 MSc Comp Sci Graduate (with Distinction)
