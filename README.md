@@ -14,7 +14,7 @@
 - 🎓 MSc Comp Sci Graduate (with Distinction)
 
 ## My FOSS Projects
-All my FOSS projects are licenced under the standard MIT Licence. Which in the words of Simon Tatham: _"This means that you can do pretty much anything you like with the game binaries or the code, except pretending you wrote them yourself, or suing me if anything goes wrong."_
+All my FOSS projects are licenced under the standard MIT Licence. Which in the words of Simon Tatham: _"This means that you can do pretty much anything you like with the binaries or the code, except pretending you wrote them yourself, or suing me if anything goes wrong."_
 
 | Icon | Name | Description |
 | ---- | ---- | ----------- |
