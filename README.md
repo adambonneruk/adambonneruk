@@ -1,16 +1,15 @@
 ## ```Hello, World!```
 
-<img align="right" alt="little circuit board" src="./active-circuit.gif" />
+<!-- BROKEN <img align="right" alt="little circuit board" src="./active-circuit.gif" />-->
 
-[🌍 Website](https://adambonner.co.uk) | [👨‍💼 LinkedIn](https://www.linkedin.com/in/adambonneruk/) | [👨🏻‍💻 GitHub](https://github.com/adambonneruk)
-
-### I am Adam Bonner
+### I'm Adam Bonner
 
 - 💾 Version Control Enthusiast, 📡 Loves to talk about VLANs
 - 🐍 Hobbyist Python Developer, with experience in HLA, C, XSLT, MATLAB, Groovy, Gherkin and PowerShell
-- 👔 Principal Consultant / Enterprise Architect for [Experian](https://www.experian.co.uk/business/customer-journey/acquisition)
+- 👔 Head of Strategic Delivery at [Experian](https://www.experian.co.uk/business/customer-journey/acquisition)
 - 👷🏼 Free time spent with LEGO Mindstorms, Raspberry Pi and Power Tools
 - 🎓 MSc Comp Sci Graduate (with Distinction)
+- 👨‍💼 Find me on [LinkedIn](https://www.linkedin.com/in/adambonneruk/)
 
 ## Interesting Configurations
 I like to use Git for more than _just_ code. Below is a small collection of public configurations I share for those who might want inspiration. All of which are MIT Licenced; feel free to use and adapt for your own purposes!
