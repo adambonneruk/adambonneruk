@@ -1,6 +1,6 @@
 ## ```Hello, World!```
 
-<!-- BROKEN <img align="right" alt="little circuit board" src="./active-circuit.gif" />-->
+<img align="right" alt="little circuit board" src="./active-circuit.gif" />
 
 ### I'm Adam Bonner
 
@@ -24,7 +24,7 @@ Written mainly in Python and compiled with PyInstaller, my FOSS projects are lic
 
 | Icon | Name | Description |
 | ---- | ---- | ----------- |
-| <img src="https://raw.githubusercontent.com/adambonneruk/space-cadet-pinball/master/.images/icon.png" width=128px> | [Space Cadet Pinball Installer](https://github.com/adambonneruk/space-cadet-pinball) | **Want to Play the Windows XP classic on modern Windows 10 x64?** "Space Cadet Pinball" uses NSIS to package the right files together and create a portable installer you can use to put XP's classic game on your modern desktop |
+| <img src="images/pinball.png" width=128px> | [Space Cadet Pinball Installer](https://github.com/adambonneruk/space-cadet-pinball) | **Want to Play the Windows XP classic on modern Windows 10 x64?** "Space Cadet Pinball" uses NSIS to package the right files together and create a portable installer you can use to put XP's classic game on your modern desktop |
 | <img src="https://raw.githubusercontent.com/adambonneruk/watch/master/.screenshot/icon.png" width=128px> | [Watch](https://github.com/adambonneruk/watch) | **Need to watch a directory, without refreshing?** "Watch" is a small python utility to watch a given directory, printing out all the contents and refreshing automatically, used in one or two demos to show Git DB changes. |
 | <img src="https://raw.githubusercontent.com/adambonneruk/uuid-generator/master/unique/icon/256.png" width=128px> | [Unique](https://github.com/adambonneruk/uuid-generator) | **Need some UUIDs?** "Unique": UUID generator tool. unique.py will generate UUIDs (using a CLI) in a variety of flavours whilst unique_gui.py wraps this up in a pretty GUI. This project in available as native python source, a windows executable and docker image. |
 | <img src="https://raw.githubusercontent.com/adambonneruk/awake/master/icon/256.png" width=128px> | [Awake](https://github.com/adambonneruk/awake) | **Need to stop your Windows PC from locking/sleeping?** "Awake: Stay Awake, Don't Sleep!" is a small Python utility designed to keep a machine/workstation from going idle. Leveraging the awesome PyAutoGUI library to impersonate a human being and programmatically control the keyboard, this utility presses the scroll lock key ~2 times a second. |
