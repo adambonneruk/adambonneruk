@@ -4,9 +4,10 @@
 
 ### I'm Adam Bonner
 
-- 👔 Decisioning Engineering Director at [Experian](https://www.experian.co.uk/business/customer-journey/acquisition), I'm pretty adapt with the following technology/software:
+- 👔 Decisioning Engineering Director at [Experian](https://www.experian.co.uk/business/customer-journey/acquisition), I use the following tech/software:
   - SOA, SOAP, WSDL and Soap UI
   - REST, Swagger, JsonSchema, and Postman
+  - PowerCurve Originations, SMaaS, and Experian One
 - 🎓 MSc Comp Sci Graduate (with Distinction)
 - 👨‍💼 Find me on [LinkedIn](https://www.linkedin.com/in/adambonneruk/)
 - 💾 Obviously a version control enthusiast
