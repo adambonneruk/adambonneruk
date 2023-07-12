@@ -10,7 +10,7 @@
   - PowerCurve Originations, SMaaS, and Experian One
 - 🎓 MSc Comp Sci Graduate (with Distinction)
 - 👨‍💼 Find me on [LinkedIn](https://www.linkedin.com/in/adambonneruk/)
-- 💾 Obviously a version control enthusiast
+- 💾 Obviously a version control enthusiast!
 - 📡 Loves to talk about networks, wi-fi and vlans
 - 🐍 Love leaning about new technology, hardware ad software languages, i've dabbled with:
   - C, HLA, Assembly, and Threebit
@@ -28,7 +28,10 @@ Here is a quick summary for some of the FOSS code i've written as personal proje
 
 | Icon | Name | Tech Demo | Description |
 | :----: | ---- | --------- | ----------- |
-| <img src=".images/pinball.png" width=128px> | [Space Cadet Pinball](https://github.com/adambonneruk/space-cadet-pinball) | NSIS | **Want to Play the Windows XP classic on modern Windows 10?**<br> "Space Cadet Pinball" combines public domain files with k4zmu2a's decompilation for the best classic pinball action on newer versions of Windows. Wrapping everything together in an easy-to-use portable installer. |
+| <img src=".images/pinball.png" width=128px> | [Space Cadet Pinball](https://github.com/adambonneruk/space-cadet-pinball) | NSIS | **Want to Play the Windows XP classic on modern Windows 10?**<br> This repository combines public domain files with k4zmu2a's decompilation for the best classic pinball action on newer versions of Windows. Wrapping everything together in an easy-to-use portable installer. |
+| <img src=".images/unique.png" width=128px> | [UUID Generator](https://github.com/adambonneruk/space-cadet-pinball) | Python Tk GUI | **Need some UUIDs?**<br> This repository is a command-line and graphical user interface UUID generator tool written in Python. Generates UUID Versions 1, 3, 4, 5, and 0. Support for DNS, URL, OID, and X.500 Namespaces as well as URN (RFC 4122) prefixes. |
+
+
 <!--| <img src="https://raw.githubusercontent.com/adambonneruk/watch/master/.screenshot/icon.png" width=128px> | [Watch](https://github.com/adambonneruk/watch) | Python | **Need to watch a directory, without refreshing?** "Watch" is a small python utility to watch a given directory, printing out all the contents and refreshing automatically, used in one or two demos to show Git DB changes. |
 | <img src="https://raw.githubusercontent.com/adambonneruk/uuid-generator/master/unique/icon/256.png" width=128px> | [Unique](https://github.com/adambonneruk/uuid-generator) | Python / GUI / UUID |**Need some UUIDs?** "Unique": UUID generator tool. unique.py will generate UUIDs (using a CLI) in a variety of flavours whilst unique_gui.py wraps this up in a pretty GUI. This project in available as native python source, a windows executable and docker image. |
 | <img src="https://raw.githubusercontent.com/adambonneruk/awake/master/icon/256.png" width=128px> | [Awake](https://github.com/adambonneruk/awake) | Multi Threading Python | **Need to stop your Windows PC from locking/sleeping?** "Awake: Stay Awake, Don't Sleep!" is a small Python utility designed to keep a machine/workstation from going idle. Leveraging the awesome PyAutoGUI library to impersonate a human being and programmatically control the keyboard, this utility presses the scroll lock key ~2 times a second. |
@@ -37,7 +40,7 @@ Here is a quick summary for some of the FOSS code i've written as personal proje
 | <img src="https://raw.githubusercontent.com/adambonneruk/phone-num-split/documentation/icon/256.png" width=128px> | [Phone-Num-Split](https://github.com/adambonneruk/phone-num-split) | Python / RegEx | **Need to split a UK Telephone Number into Area Code and Local Number?** phone-num-split lets you do that at the command line, using regex patterns and some cleaning logic to turn most valid (albiet non-standard format) numbers into the usual groupings |
 -->
 
-## Interesting Configurations
+## My Interesting Configurations
 Using git for more programming projects exclusively, here are a couple of useful configurations I use to make my life easier!
 
 | Icon | Name | Tech Demo | Description |
