@@ -1,6 +1,6 @@
 ## ```Hello, World!```
 
-<img align="right" src="./images/circuit.gif" />
+<img align="right" src=".images/circuit.gif" />
 
 ### I'm Adam Bonner
 
