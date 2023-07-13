@@ -20,7 +20,6 @@
   - XML, XSLT, XSD, and XPath
   - MATLAB
   - CMD/Batch and PowerShell
-  - , I've dabbled with HTML+CSS, NSIS, PowerShell, Groovy, Gherkin, HLA, C, XSLT and MATLAB
 - 👷🏼 Free time spent with LEGO Mindstorms, Raspberry Pi and Power Tools (running network cables!)
 
 ## My FOSS Software Projects
